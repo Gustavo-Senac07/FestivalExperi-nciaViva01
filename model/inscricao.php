@@ -4,7 +4,6 @@ class inscricao
 {
     private $participante_id_participante;
     private $atividades_id_atividades;
-    private $status;
 
     public function __construct(
         $participante_id_participante,
